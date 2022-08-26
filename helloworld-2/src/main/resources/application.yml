@@ -1,0 +1,23 @@
+person:
+  boss: true
+  birth: 2022/8/25
+  age: 35
+  pet:
+    name: 狗
+    weight: 99.0
+  interests:
+    - 唱歌
+    - 跳舞
+    - 篮球
+  animal: [狗,猫]
+  score: {english: 80, math: 90}
+  salarys:
+    - 999.8
+    - 999.9
+  allPets:
+    sick:
+      - {name: 狗, weight: 99.9}
+      - name: 猫
+        weight: 88.8
+  user-name: zhangsan
+
